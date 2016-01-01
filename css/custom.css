@@ -28,10 +28,10 @@ footer {
 	margin-left: auto;
 	margin-right: auto;
 }
-h1 {
+.h1 .sitetitle {
 	font-family: 'Pacifico', cursive;
 	font-weight: 400;
-	font-size: 5em;
+	font-size: 5em; 
 }
 .lead {
 	font-family: 'Amatic SC', cursive;
