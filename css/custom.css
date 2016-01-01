@@ -5,3 +5,7 @@
 .container {
 	max-width: 600px;
 }
+
+.greytext {
+	color: #b3b3b3;
+}
