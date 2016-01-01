@@ -1,6 +1,8 @@
 
 .container {
 	max-width: 600px;
+	margin-top: 10px;
+	margin-bottom: 10px;
 }
 .greytext {
 	color: #b3b3b3;
@@ -10,7 +12,6 @@ hr {
 	margin-bottom: 15px;
 }
 .row {
-	margin-top: 10px;
 	margin-bottom: 10px;
 }
 body {
