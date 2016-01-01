@@ -5,11 +5,17 @@
 .container {
 	max-width: 600px;
 }
-
 .greytext {
 	color: #b3b3b3;
 }
 hr {
 	margin-top: 15px;
 	margin-bottom: 15px;
+}
+.row {
+	margin-bottom: 5px;
+}
+body {
+	padding-top:15px;
+	padding-bottom:15px;
 }
