@@ -1,10 +1,4 @@
-.header-bg {
+.jumbotron {
 	background:url('../assets/images/the-road-ahead.jpg'); 
-    width: 100%;
-    height: 600px;
    }
 
-   .header-title {
-   		text-align: center;
-   		vertical-align: middle;
-   }
