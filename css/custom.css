@@ -1,9 +1,4 @@
 .header-bg {
-	background:url('../assets/images/the-road-ahead.jpg') no-repeat; 
-	-webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
-    width: 100%;
-    height: auto;
+	background:url('../assets/images/the-road-ahead.jpg') no-repeat fixed center; 
+    height: 500px;
   }
