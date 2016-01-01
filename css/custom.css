@@ -1,7 +1,4 @@
-.jumbotron {
-	background:url('../assets/images/the-road-ahead.jpg'); 
-	height: 500px;
-   }
+
 .container {
 	max-width: 600px;
 }
@@ -13,7 +10,8 @@ hr {
 	margin-bottom: 15px;
 }
 .row {
-	margin-bottom: 5px;
+	margin-top: 10px;
+	margin-bottom: 10px;
 }
 body {
 	padding-top:15px;
