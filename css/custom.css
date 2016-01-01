@@ -8,13 +8,17 @@
 	color: #b3b3b3;
 }
 hr {
-	margin-top: 5px;
-	margin-bottom: 5px;
+	margin-top: 15px;
+	margin-bottom: 15px;
 }
 .row {
 	margin-bottom: 10px;
 }
 body {
+	padding-top:15px;
+	padding-bottom:15px;
+}
+.spacer {
 	padding-top:15px;
 	padding-bottom:15px;
 }
